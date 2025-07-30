@@ -54,6 +54,8 @@
     ![ASP.NET](https://img.shields.io/badge/ASP.NET-%230078D4.svg?style=for-the-badge&logo=.net&logoColor=white)
     ![Entity Framework](https://img.shields.io/badge/Entity%20Framework-%235C2D91.svg?style=for-the-badge&logo=.net&logoColor=white)
    ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+      ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+
 
 <br>
 
@@ -75,20 +77,20 @@
 
 <h3>Statistical Data :-</h3>
 <p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=adam-pw&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="adam-pw" 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=PedroCLZ&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+    alt="PedroCLZ" 
     bg_color=#808080/></p>
 
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adam-pw&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-    alt="adam-pw" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=PedroCLZ&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+    alt="PedroCLZ" /></p>
 
 <br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Adam-pw&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="adam-pw" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PedroCLZ&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="PedroCLZ" /></p>
       
 <p align="left"> <a href="https://twitter.com/" target="blank"><img
       src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-[Adam-pw](https://github.com/Adam-pw)
+[Pedro Centeno Lopez](https://www.linkedin.com/in/pedro-centeno-2734a7222/)
