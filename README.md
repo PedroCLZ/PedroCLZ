@@ -1,4 +1,6 @@
-
+<div align="center">
+  <img width="100%" height="200" src="https://github.com/user-attachments/assets/6ae2c7fa-1928-432d-886c-e9dd11a2022b" alt="Header Image"/>
+</div>
 <h1 align="center">Hi 👋, I'm Pedro Centeno Lopez</h1>
 <h3 align="center">Student at Computer Systems Engineer🌟.</h3>
 
