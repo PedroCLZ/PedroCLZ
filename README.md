@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Pedro Centeno Lopez</h1>
 <h3 align="center">Student at Computer Systems Engineer🌟.</h3>
 
@@ -94,3 +95,5 @@
       src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 [Pedro Centeno Lopez](https://www.linkedin.com/in/pedro-centeno-2734a7222/)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer"/>
